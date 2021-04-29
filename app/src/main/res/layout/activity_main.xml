@@ -104,7 +104,7 @@
             <com.google.android.material.textfield.TextInputEditText
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:hint="Telegram ID"
+                android:hint="Telegram-ID"
                 android:textSize="20sp" />
         </com.google.android.material.textfield.TextInputLayout>
 
